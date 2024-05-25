@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.yellow{
+    color: azure;
+    background-color: yellow;
+}
+.red{
+    color:aliceblue;
+    background-color: red;
+}
+.text-dark{
+    color: black;
+}
